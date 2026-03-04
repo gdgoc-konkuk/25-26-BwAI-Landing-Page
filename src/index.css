@@ -265,14 +265,12 @@
   }
 
   .schedule-section {
-    --schedule-inline-pad: clamp(1rem, 2.5vw, 1.55rem);
     padding-top: clamp(2.5rem, 5vw, 4.25rem);
     padding-bottom: clamp(4rem, 8vw, 6.5rem);
   }
 
   .schedule-title {
     margin: 0;
-    padding-left: var(--schedule-inline-pad);
     color: var(--color-ink);
     font-size: clamp(1.55rem, 1.16rem + 1.25vw, 2.35rem);
     line-height: 1.15;
@@ -294,7 +292,7 @@
     display: grid;
     grid-template-columns: minmax(0, 1fr);
     gap: 0.26rem;
-    padding: clamp(0.95rem, 2.2vw, 1.3rem) var(--schedule-inline-pad);
+    padding: clamp(0.95rem, 2.2vw, 1.3rem) clamp(1rem, 2.5vw, 1.55rem);
   }
 
   .schedule-row + .schedule-row {
@@ -313,6 +311,7 @@
     color: var(--color-ink-soft);
     font-size: clamp(0.95rem, 0.91rem + 0.18vw, 1.04rem);
     line-height: 1.6;
+    white-space: pre-line;
   }
 
   .features-stack {
