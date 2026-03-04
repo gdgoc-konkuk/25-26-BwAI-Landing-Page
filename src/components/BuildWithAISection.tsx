@@ -7,7 +7,7 @@ const BuildWithAISection = () => {
       className="fullpage-section section-block"
       aria-labelledby="ag-build-with-ai-heading"
     >
-      <div className="site-shell-wide flex w-full flex-col justify-center">
+      <div className="site-shell flex w-full flex-col justify-center">
         <motion.div
           className="w-full"
           initial={{ opacity: 0, y: 20 }}
