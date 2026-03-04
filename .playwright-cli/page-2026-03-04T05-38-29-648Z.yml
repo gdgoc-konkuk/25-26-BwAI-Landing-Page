@@ -1,0 +1,47 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - img [ref=e7]
+        - generic [ref=e10]: Build with AI
+        - generic [ref=e11]: GDG on Campus Konkuk
+      - button "참가 신청하기" [ref=e13]:
+        - text: 참가 신청하기
+        - img [ref=e14]
+  - region "Build with AI 2026" [ref=e16]:
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e20]: GDG on Campus Konkuk 주관
+        - heading "Build with AI 2026" [level=1] [ref=e21]
+      - img "Build with AI 2026 Web Header" [ref=e23]
+  - region "Build with AI는 구글 개발자 그룹(GDG) 커뮤니티가 주도하여 전 세계적으로 개최하는 기술 워크숍 및 커뮤니티 이벤트 시리즈입니다." [ref=e24]:
+    - heading "Build with AI는 구글 개발자 그룹(GDG) 커뮤니티가 주도하여 전 세계적으로 개최하는 기술 워크숍 및 커뮤니티 이벤트 시리즈입니다." [level=2] [ref=e27]
+  - region "Features" [ref=e28]:
+    - generic [ref=e30]:
+      - article [ref=e31]:
+        - generic [ref=e32]:
+          - heading "An AI IDE Core" [level=3] [ref=e33]
+          - paragraph [ref=e34]: "TODO: 핵심 에디터 경험 소개 문구를 채워 넣으세요. (2~3줄 권장)"
+        - generic [ref=e37]: "TODO: MEDIA"
+      - article [ref=e38]:
+        - generic [ref=e39]:
+          - heading "Higher-level Abstractions" [level=3] [ref=e40]
+          - paragraph [ref=e41]: "TODO: 상위 추상화/워크플로우 설명 문구를 채워 넣으세요."
+        - generic [ref=e44]: "TODO: MEDIA"
+      - article [ref=e45]:
+        - generic [ref=e46]:
+          - heading "Cross-surface Agents" [level=3] [ref=e47]
+          - paragraph [ref=e48]: "TODO: 에이전트가 여러 surface에서 동작하는 시나리오를 입력하세요."
+        - generic [ref=e51]: "TODO: MEDIA"
+      - article [ref=e52]:
+        - generic [ref=e53]:
+          - heading "User Feedback" [level=3] [ref=e54]
+          - paragraph [ref=e55]: "TODO: 피드백 루프와 품질 개선 흐름을 설명하는 문구를 입력하세요."
+        - generic [ref=e58]: "TODO: MEDIA"
+      - article [ref=e59]:
+        - generic [ref=e60]:
+          - heading "An Agent-First Experience" [level=3] [ref=e61]
+          - paragraph [ref=e62]: "TODO: 마지막 카드의 요약 메시지를 입력하세요. 문장은 3~4줄을 권장합니다."
+          - 'link "TODO: CTA" [ref=e63] [cursor=pointer]':
+            - /url: "#TODO"
+        - generic [ref=e66]: "TODO: MEDIA"

@@ -1,0 +1,61 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - img [ref=e7]
+        - generic [ref=e10]: Build with AI
+        - generic [ref=e11]: GDG on Campus Konkuk
+      - button "참가 신청하기" [ref=e13]:
+        - text: 참가 신청하기
+        - img [ref=e14]
+  - region "Build with AI 2026" [ref=e16]:
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e20]: GDG on Campus Konkuk 주관
+        - heading "Build with AI 2026" [level=1] [ref=e21]
+        - paragraph [ref=e22]: 2026년 4월 7일 저녁 6시, 건국대학교
+      - img "Build with AI 2026 Web Header" [ref=e25]
+  - region "Build with AI 2026은 구글 개발자 그룹(GDG)이 주도하여 세계적으로 개최하는 AI 행사 시리즈입니다." [ref=e26]:
+    - generic [ref=e28]:
+      - heading "Build with AI 2026은 구글 개발자 그룹(GDG)이 주도하여 세계적으로 개최하는 AI 행사 시리즈입니다." [level=2] [ref=e29]:
+        - text: Build with AI 2026은
+        - text: 구글 개발자 그룹(GDG)이 주도하여
+        - text: 세계적으로 개최하는 AI 행사 시리즈입니다.
+      - paragraph [ref=e30]:
+        - text: GDG on Campus Konkuk은
+        - text: GDG의 캠퍼스 버전 커뮤니티로서
+        - text: 누구나 쉽게 바이브코딩을 할 수 있도록 도와주려고 합니다.
+  - region "Features" [ref=e31]:
+    - generic [ref=e33]:
+      - article [ref=e34]:
+        - generic [ref=e35]:
+          - generic [ref=e36]:
+            - heading "An AI IDE Core" [level=3] [ref=e37]
+            - paragraph [ref=e38]: "TODO: 핵심 에디터 경험 소개 문구를 채워 넣으세요. (2~3줄 권장)"
+          - generic [ref=e41]: "TODO: MEDIA"
+      - article [ref=e42]:
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - heading "Higher-level Abstractions" [level=3] [ref=e45]
+            - paragraph [ref=e46]: "TODO: 상위 추상화/워크플로우 설명 문구를 채워 넣으세요."
+          - generic [ref=e49]: "TODO: MEDIA"
+      - article [ref=e50]:
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - heading "Cross-surface Agents" [level=3] [ref=e53]
+            - paragraph [ref=e54]: "TODO: 에이전트가 여러 surface에서 동작하는 시나리오를 입력하세요."
+          - generic [ref=e57]: "TODO: MEDIA"
+      - article [ref=e58]:
+        - generic [ref=e59]:
+          - generic [ref=e60]:
+            - heading "User Feedback" [level=3] [ref=e61]
+            - paragraph [ref=e62]: "TODO: 피드백 루프와 품질 개선 흐름을 설명하는 문구를 입력하세요."
+          - generic [ref=e65]: "TODO: MEDIA"
+      - article [ref=e66]:
+        - generic [ref=e67]:
+          - generic [ref=e68]:
+            - heading "An Agent-First Experience" [level=3] [ref=e69]
+            - paragraph [ref=e70]: "TODO: 마지막 카드의 요약 메시지를 입력하세요. 문장은 3~4줄을 권장합니다."
+            - 'link "TODO: CTA" [ref=e71] [cursor=pointer]':
+              - /url: "#TODO"
+          - generic [ref=e74]: "TODO: MEDIA"
